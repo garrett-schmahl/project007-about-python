@@ -136,6 +136,9 @@ li{
         font-size: 130%;
         font-style:italic;
       }
+    #zen_text{
+      font-size:120%;
+    }
 
   #secondary_block{
     display:flex;
