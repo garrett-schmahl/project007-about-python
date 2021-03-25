@@ -20,7 +20,7 @@ li{
 #container{
   min-height: 500px;
   width:970px;
-  background-image:linear-gradient(to top,#5190c7, #265175, #265175);
+  background-image:linear-gradient(to top,#447eb1, #265175, #265175);
 }
   #title_block{
     display:flex;
